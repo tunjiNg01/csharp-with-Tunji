@@ -1,0 +1,15 @@
+/Users/macbookpro/Documents/portfolio/csharp-with-Tunji/csharp-concept/csharp-concept/bin/Debug/net7.0/csharp-concept
+/Users/macbookpro/Documents/portfolio/csharp-with-Tunji/csharp-concept/csharp-concept/bin/Debug/net7.0/csharp-concept.deps.json
+/Users/macbookpro/Documents/portfolio/csharp-with-Tunji/csharp-concept/csharp-concept/bin/Debug/net7.0/csharp-concept.runtimeconfig.json
+/Users/macbookpro/Documents/portfolio/csharp-with-Tunji/csharp-concept/csharp-concept/bin/Debug/net7.0/csharp-concept.dll
+/Users/macbookpro/Documents/portfolio/csharp-with-Tunji/csharp-concept/csharp-concept/bin/Debug/net7.0/csharp-concept.pdb
+/Users/macbookpro/Documents/portfolio/csharp-with-Tunji/csharp-concept/csharp-concept/obj/Debug/net7.0/csharp-concept.csproj.AssemblyReference.cache
+/Users/macbookpro/Documents/portfolio/csharp-with-Tunji/csharp-concept/csharp-concept/obj/Debug/net7.0/csharp-concept.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macbookpro/Documents/portfolio/csharp-with-Tunji/csharp-concept/csharp-concept/obj/Debug/net7.0/csharp-concept.AssemblyInfoInputs.cache
+/Users/macbookpro/Documents/portfolio/csharp-with-Tunji/csharp-concept/csharp-concept/obj/Debug/net7.0/csharp-concept.AssemblyInfo.cs
+/Users/macbookpro/Documents/portfolio/csharp-with-Tunji/csharp-concept/csharp-concept/obj/Debug/net7.0/csharp-concept.csproj.CoreCompileInputs.cache
+/Users/macbookpro/Documents/portfolio/csharp-with-Tunji/csharp-concept/csharp-concept/obj/Debug/net7.0/csharp-concept.dll
+/Users/macbookpro/Documents/portfolio/csharp-with-Tunji/csharp-concept/csharp-concept/obj/Debug/net7.0/refint/csharp-concept.dll
+/Users/macbookpro/Documents/portfolio/csharp-with-Tunji/csharp-concept/csharp-concept/obj/Debug/net7.0/csharp-concept.pdb
+/Users/macbookpro/Documents/portfolio/csharp-with-Tunji/csharp-concept/csharp-concept/obj/Debug/net7.0/csharp-concept.genruntimeconfig.cache
+/Users/macbookpro/Documents/portfolio/csharp-with-Tunji/csharp-concept/csharp-concept/obj/Debug/net7.0/ref/csharp-concept.dll
