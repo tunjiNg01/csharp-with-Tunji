@@ -3,6 +3,8 @@
 
 // SINGLE DIMENSIONAL ARRAY.
 
+using csharp_concept;
+
 int[] number = new int[] { 1, 2, 3, 4, 5 };
 
 int[] numberB = new int[4];
@@ -66,3 +68,5 @@ foreach(var i in numberc)
 {
     Console.WriteLine(i);
 }
+var cv = new CustomGraphics();
+cv.DrawSquare();
