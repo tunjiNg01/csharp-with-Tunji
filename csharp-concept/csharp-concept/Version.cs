@@ -8,6 +8,7 @@ namespace csharp_concept
 		}
 		public virtual void DrawLine() { Console.WriteLine("Base is drwaing line"); }
 		public virtual void DrawSquare() { Console.WriteLine("Base is drwaing square"); }
+		virtual public void Write() { Console.WriteLine("Base write method"); }
 	}
 
 	public class CustomGraphics: Graphics
@@ -22,9 +23,14 @@ namespace csharp_concept
             base.DrawSquare();
         }
 
-		public override void DrawLine()
+		//public override void DrawLine()
+		//{
+			//base.DrawLine();
+			//Console.WriteLine("Derived is Drawing Line {0}");
+		//}
+		new public void Write()
 		{
-			Console.WriteLine("Derived is Drawing Line {0}");
+			Console.WriteLine("Member for custom graphics");
 		}
     }
 

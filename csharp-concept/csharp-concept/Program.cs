@@ -70,3 +70,11 @@ foreach(var i in numberc)
 }
 var cv = new CustomGraphics();
 cv.DrawSquare();
+
+Graphics vcdc = new CustomGraphics();
+
+vcdc.Write();
+
+// Every instance in inherited from object which have a to string method
+Console.WriteLine(number.ToString());
+
